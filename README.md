@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Nathan
 
 ## About Me
-- 🌱 I’m currently learning Java, mySQL
+
+* 🌱 I’m currently learning Java, mySQL
 
 ## Skills
-- **Languages:** C, C++
-- **Tools & Technologies:** 
+
+* **Languages:** C, C++
